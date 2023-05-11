@@ -2,7 +2,7 @@
 
 #### Name: Wilson Shih
 #### Student ID: 111971005
-#### ShinyApps link: <https://github.com/1112-datascience-inservice/hw4-WilsonShih>
+#### ShinyApps link: <https://wilson-shih.shinyapps.io/NCCU_DS2023_hw4_111971005>
 
 ## Description
 
